@@ -1,0 +1,8 @@
+node_modules
+.idea
+npm-debug.log
+dev.db
+coverage/
+web/lib
+.grunt
+_SpecRunner.html

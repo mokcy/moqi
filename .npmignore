@@ -1,0 +1,7 @@
+dev.db
+.jslint.conf
+.travis.yml
+coverage/
+web/lib
+.grunt
+_SpecRunner.html
